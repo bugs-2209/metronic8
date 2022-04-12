@@ -1,0 +1,17 @@
+{
+  "name": "theme-metronic",
+  "version": "1.0.1",
+  "authors": [
+    "Nguyen Cuong <cuong2209s@gmail.com>"
+  ],
+  "description": "",
+  "main": "/",
+  "keywords": [
+    "fonticons"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/bugs-2209/metronic8.git",
+  "ignore": [
+    "README.md"
+  ]
+}
